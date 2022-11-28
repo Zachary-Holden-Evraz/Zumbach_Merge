@@ -1,6 +1,11 @@
 # Zumbach_Merge
 This .exe file will merge each piece of Steel (with several .csv files) into one excel file.
 
+Improvements made on 11/28:
+Implemented a start/stop button
+  This will allow the user to stop the macro at any time without the risk of corrupting the main file
+  This also improves the performance of the macro since it the start button puts it onto its own thread
+
 Quick run down of improvements to the macro as of 11/21/22: 
 
 I sped it up a bit, though it is still not fast.  I am still working on improving the speed of the macro.
