@@ -1,10 +1,12 @@
 # Zumbach_Merge
 This .exe file will merge each piece of Steel (with several .csv files) into one excel file.
+Download the archive files (zip.001, zip.002) and use 7zip to extract them.  That will give you the .exe file
 
 Improvements made on 11/28:
 Implemented a start/stop button
   This will allow the user to stop the macro at any time without the risk of corrupting the main file
   This also improves the performance of the macro since it the start button puts it onto its own thread
+  The start button must be pressed before the macro will begin
 
 Quick run down of improvements to the macro as of 11/21/22: 
 
