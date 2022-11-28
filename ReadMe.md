@@ -1,7 +1,7 @@
 This program is made to merge specific data from several different .csv files into one main excel (.xlsx) file.
 This program will repeat the above until there are no .csv files left.
 
-To get this program as a .exe file, download the zip files and use 7zip to extract them.
+if you cannot download the .exe file itself, download the zip files and use 7zip to extract them.
 
 To run the macro:
 Run the .exe file.  The program will ask the user to specify the excel file to update.  After this, the program will ask the user to give the 
