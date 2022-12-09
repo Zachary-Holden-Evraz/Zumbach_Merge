@@ -1,6 +1,8 @@
 # Zumbach_Merge
 This .exe file will merge each piece of Steel (with several .csv files) into one excel file.
-Download the archive files (zip.001, zip.002) and use 7zip to extract them.  That will give you the .exe file
+
+Improvements made on 12/9:
+  An error was found and corrected.  The error caused columns B-F on the excel file to be copied incorrectly whenever the program was stopped and restarted later.
 
 Improvements made on 11/28:
 Implemented a start/stop button
