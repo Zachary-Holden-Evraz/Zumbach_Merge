@@ -10,3 +10,5 @@ Next, to start the macro, click on the start button on the small, separate windo
 is shown on the window, the program can be closed.
 
 *** Warning: closing the program without using the stop button first may corrupt the excel file.
+
+*** Warning: opening the excel file at any point while the program is running may corrupt it or even make it blank
