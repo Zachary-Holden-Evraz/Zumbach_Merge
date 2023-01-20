@@ -1,7 +1,10 @@
 # Zumbach_Merge
 This .exe file will merge each piece of Steel (with several .csv files) into one excel file.
 
-Improvements made on 12/16:
+Improvements made on 1/20/23:
+  Added an autosave system.  Every 100 pieces, the program will save the excel file and create a backup.
+
+Improvements made on 12/16/22:
   Finally got it running faster.  It will not save without hitting the stop button, but every piece of steel should take less than 10 seconds.
   The program will now know when there are no more pieces to copy and display text accordingly.
   Starting and stopping the program still takes time proportional to the amount of information in the excel file.  I do not believe I can do anythig about that.
@@ -10,10 +13,10 @@ Improvements made on 12/16:
     of time the more information was there.  If you are doing several hundred pieces at a time, it may be beneficial to stop and start it after about one or two hundred.  Just make sure to use the buttons for doing
     so and not just close the program. 
 
-Improvements made on 12/9:
+Improvements made on 12/9/22:
   An error was found and corrected.  The error caused columns B-F on the excel file to be copied incorrectly whenever the program was stopped and restarted later.
 
-Improvements made on 11/28:
+Improvements made on 11/28/22:
 Implemented a start/stop button
   This will allow the user to stop the macro at any time without the risk of corrupting the main file
   This also improves the performance of the macro since it the start button puts it onto its own thread
