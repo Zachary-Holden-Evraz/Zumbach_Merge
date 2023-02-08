@@ -1,6 +1,10 @@
 # Zumbach_Merge
 This .exe file will merge each piece of Steel (with several .csv files) into one excel file.
 
+Improvements made on 2/8/23:
+  Fixed a bug that caused columns B-F on the excel file to be copied incorrectly.
+  Changed the way that the files are sorted in the program.  
+
 Improvements made on 1/20/23:
   Added an autosave system.  Every 100 pieces, the program will save the excel file and create a backup.
 
